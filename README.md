@@ -7,14 +7,14 @@ My name is Brian and I am an IT student passionate about learning and the art of
 
 Web Development Student 🌐 | Front and Back Development 💻
 
-#### My Current Tech stack
+## My Current Tech stack
 ---
 
 ![HTML Version](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white) ![CSS Version](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Node.js Version](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript Version](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![ASP.NET Version](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
 
 
-#### Stats
+## Stats
 ---
 
 <p align="left">
