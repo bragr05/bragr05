@@ -3,7 +3,7 @@
 
 <h1 style="color:#f14d18">Hi there, &lt;devs/&gt;</h1>
 
-My name is Brian and I am an IT student passionate about learning and the art of programming 👨🏻‍💻
+My name is Brian and I am an IT student passionate about learning and the art of programming
 
 Web Development Student 🌐 | Front and Back Development 💻
 
