@@ -6,7 +6,11 @@ My name is Brian and I am an IT student passionate about learning and the art of
 
 Web Development Student 🌐 | Front and Back Development 💻
 
-## My Current Tech stack
+## Other profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/bragrji/)
+
+## My current tech stack
 
 ![HTML Version](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white) ![CSS Version](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript Version](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
